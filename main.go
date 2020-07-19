@@ -133,7 +133,7 @@ func main() {
 	}
 	//insert(con)
 	
-	update(con)
+	//update(con)
 
-	//find(con)
+	find(con)
 }
