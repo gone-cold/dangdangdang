@@ -136,5 +136,4 @@ func main() {
 	update(con)
 
 	//find(con)
-	fmt.Println("dd");
 }
